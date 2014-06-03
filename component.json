@@ -1,0 +1,17 @@
+{
+  "name": "genresume",
+  "repo": "heatroom/genresume",
+  "description": "this is a resume generator app.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}
